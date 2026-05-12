@@ -20,10 +20,12 @@ h1 {
   font-size: 36px;
   margin: 0 0 10px 0;
 }
+
 h2 {
   margin: 0 0 4px;
   font-size: 28px;
 }
+
 select {
   display: block;
   width: 100%;
@@ -61,12 +63,14 @@ select {
 footer {
   text-align: center;
   font-size: 18px;
-  color: rgb(23, 234, 37);
+  color: rgb(255, 255, 255);
 }
 
 a:link {
-  color: rgb(0, 0, 0);
+  color: rgb(0, 255, 76);
+  text-decoration: none;
 }
+
 a:visited {
-  color: white;
+  color: rgb(0, 255, 76);
 }
